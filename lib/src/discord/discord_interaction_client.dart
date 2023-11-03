@@ -89,7 +89,7 @@ final class DiscordInteractionClientImpl implements DiscordInteractionClient {
       guildId: _config.guildId,
       nonce: nonce.toString(),
       data: InteractionData$ApplicationCommand(
-        version: '1118961510123847772',
+        version: '1166847114203123795',
         id: '938956540159881230',
         name: 'imagine',
         type: ApplicationCommandType.chatInput,
@@ -103,7 +103,7 @@ final class DiscordInteractionClientImpl implements DiscordInteractionClient {
         applicationCommand: ApplicationCommand(
           id: '938956540159881230',
           applicationId: '936929561302675456',
-          version: '1118961510123847772',
+          version: '1166847114203123795',
           type: ApplicationCommandType.chatInput,
           nsfw: false,
           name: 'imagine',
